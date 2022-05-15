@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi!
+
+I'm working in this proyects:
+- [Gedure](https://github.com/recker112/gedure)
 
 <!--
 **recker112/recker112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
